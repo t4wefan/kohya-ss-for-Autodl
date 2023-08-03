@@ -3,6 +3,7 @@
 支持一键下载模型，一键启动训练webui
 内置内网穿透（需自行配置）和gohttpserver实用工具
 欢迎加群 https://r.t4wefan.pub/s/913 反馈问题
+前往autodl镜像页面一键创建实例 https://www.codewithgpu.com/i/t4wefan/kohya_ss/kohya-ss-SDXL
 
 # 开始训练前推荐先更新`start.ipynb`
 
